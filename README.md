@@ -29,7 +29,8 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **TABULATION:**
 
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/8bf7d8de-c194-45b9-8b96-b3b2943b6f80" />
+![WhatsApp Image 2026-03-26 at 7 14 12 PM](https://github.com/user-attachments/assets/88921c98-5391-494f-8976-b5f5d37fcb96)
+
 
 
 **Marksplitup:**
